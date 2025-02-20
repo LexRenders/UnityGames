@@ -1,4 +1,4 @@
-run the .exe file to play.
+Run the .exe file to play.
 
 Use WASD or the arrows to move. you can shoot with left mouse click (at nothing because i didnt make anything to shoot, but i did handcraft the animation :) ).
 
